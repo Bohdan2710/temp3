@@ -582,7 +582,7 @@ header::after {
   width: 100%;
   display: flex;
   justify-content: center;
-  background-image: url(/assets/images/main-banner/main_banner_mobile.jpg);
+  background-image: url(../assets/images/main-banner/main_banner_mobile.jpg);
   background-size: 768px 540px;
   background-repeat: no-repeat;
   background-position: center;
@@ -592,7 +592,7 @@ header::after {
 
 @media (min-width: 768px) {
   .hero__wrapper-giaom0 {
-    background-image: url(/assets/images/main-banner/main_banner_desktop.jpg);
+    background-image: url(../assets/images/main-banner/main_banner_desktop.jpg);
     background-size: cover;
     background-position: top right;
     height: 444px;
@@ -2075,7 +2075,7 @@ body::before {
 .ts3-hero-giaom0 {
   background-image:
     linear-gradient(90deg, rgba(20, 14, 6, 0.95) 0%, rgba(20, 14, 6, 0.72) 48%, rgba(20, 14, 6, 0.35) 100%),
-    url(/assets/images/main-banner/main_banner_desktop.jpg);
+    url(../assets/images/main-banner/main_banner_desktop.jpg);
   background-size: cover;
   background-position: center right;
   background-repeat: no-repeat;
@@ -2091,7 +2091,7 @@ body::before {
   .ts3-hero-giaom0 {
     background-image:
       linear-gradient(180deg, rgba(20, 14, 6, 0.65) 0%, rgba(20, 14, 6, 0.94) 100%),
-      url(/assets/images/main-banner/main_banner_mobile.jpg);
+      url(../assets/images/main-banner/main_banner_mobile.jpg);
     background-position: center;
     min-height: 260px;
     padding: 36px 0;

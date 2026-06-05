@@ -1,6 +1,6 @@
 .promo-overlay-giaom0{position:fixed;inset:0;background:rgba(0,0,0,.72);display:none;align-items:center;justify-content:center;z-index:99999;padding:16px}
 .promo-popup-giaom0{position:relative;width:100%;max-width:420px;border-radius:12px;overflow:hidden;box-shadow:0 24px 60px rgba(0,0,0,.8),0 0 0 1px rgba(196, 142, 60, .4)}
-.promo-popup-bg-giaom0{position:absolute;inset:0;background-image:url('/assets/images/main-banner/main_banner_mobile.jpg');background-size:cover;background-position:center top;filter:brightness(.3) saturate(.7) sepia(.35)}
+.promo-popup-bg-giaom0{position:absolute;inset:0;background-image:url('../assets/images/main-banner/main_banner_mobile.jpg');background-size:cover;background-position:center top;filter:brightness(.3) saturate(.7) sepia(.35)}
 .promo-popup-bg-giaom0::after{content:'';position:absolute;inset:0;background:linear-gradient(to bottom,rgba(40, 29, 12, .55) 0%,rgba(28, 19, 6, .85) 45%,rgba(28, 19, 6, .98) 100%)}
 .promo-popup-inner-giaom0{position:relative;z-index:1;padding:48px 32px 36px;text-align:center;font-family:'Lato',Arial,sans-serif}
 .promo-btn-close-giaom0{position:absolute;top:14px;right:18px;z-index:2;background:rgba(196, 142, 60, .18);border:none;color:#EFBC6F;font-size:18px;width:32px;height:32px;border-radius:50%;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:background .2s}
