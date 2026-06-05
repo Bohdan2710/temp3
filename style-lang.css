@@ -1,0 +1,19 @@
+.translate-4b56dc{position:fixed;width:100%;max-width:10rem;bottom:0;right:0;margin-right:20px;z-index:9999}
+.language-toggle-4b56dc{position:relative;display:inline-block}
+.current-language-4b56dc{display:flex;align-items:center;gap:8px;background:rgba(255,255,255,.97);color:#222;padding:.8rem;border-radius:10px 10px 0 0;text-decoration:none;transition:all .3s ease;width:fit-content;cursor:pointer;box-shadow:0 -2px 12px rgba(0,0,0,.1);border:1px solid rgba(0,0,0,.08);border-bottom:none;font-family:inherit;font-size:14px;user-select:none}
+.current-language-4b56dc:hover{background:#f5f5f5}
+.flag-4b56dc{width:20px;height:15px;flex-shrink:0;border-radius:2px;overflow:hidden}
+.text-4b56dc{font-size:14px;font-weight:500;color:#222}
+.arrow-4b56dc{margin-left:auto;font-size:10px;transition:transform .3s ease;transform:rotate(0deg);color:#666}
+.language-toggle-4b56dc.active-4b56dc .current-language-4b56dc .arrow-4b56dc{transform:rotate(180deg)}
+.language-dropdown-4b56dc{position:absolute;bottom:100%;right:0;width:max-content;min-width:100%;background:rgba(255,255,255,.97);border-radius:12px 12px 12px 0;box-shadow:0 4px 20px rgba(0,0,0,.12);border:1px solid rgba(0,0,0,.08);z-index:1000;overflow:hidden;opacity:0;visibility:hidden;transform:translateY(10px);transition:all .3s ease;max-height:10.5rem}
+.language-toggle-4b56dc.active-4b56dc .language-dropdown-4b56dc{opacity:1;visibility:visible;transform:translateY(-1rem);overflow:auto}
+.language-link-4b56dc{width:100%;display:flex;align-items:center;gap:12px;padding:10px 14px;color:#222;text-decoration:none;transition:background .2s ease;font-size:14px;font-family:inherit}
+.language-link-4b56dc:hover{background:#f0f0f0}
+.language-link-4b56dc.active-4b56dc{display:none}
+@media(max-width:992px){.current-language-4b56dc{padding:1rem}}
+.language-dropdown-4b56dc::-webkit-scrollbar{width:6px}
+.language-dropdown-4b56dc::-webkit-scrollbar-track{background:#f5f5f5;border-radius:4px}
+.language-dropdown-4b56dc::-webkit-scrollbar-thumb{background:#ccc;border-radius:4px;border:1px solid #f5f5f5}
+.language-dropdown-4b56dc::-webkit-scrollbar-thumb:hover{background:#aaa}
+.language-dropdown-4b56dc{scrollbar-width:thin;scrollbar-color:#ccc #f5f5f5}

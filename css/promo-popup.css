@@ -1,0 +1,18 @@
+.promo-overlay-giaom0{position:fixed;inset:0;background:rgba(0,0,0,.72);display:none;align-items:center;justify-content:center;z-index:99999;padding:16px}
+.promo-popup-giaom0{position:relative;width:100%;max-width:420px;border-radius:12px;overflow:hidden;box-shadow:0 24px 60px rgba(0,0,0,.8),0 0 0 1px rgba(196, 142, 60, .4)}
+.promo-popup-bg-giaom0{position:absolute;inset:0;background-image:url('/assets/images/main-banner/main_banner_mobile.jpg');background-size:cover;background-position:center top;filter:brightness(.3) saturate(.7) sepia(.35)}
+.promo-popup-bg-giaom0::after{content:'';position:absolute;inset:0;background:linear-gradient(to bottom,rgba(40, 29, 12, .55) 0%,rgba(28, 19, 6, .85) 45%,rgba(28, 19, 6, .98) 100%)}
+.promo-popup-inner-giaom0{position:relative;z-index:1;padding:48px 32px 36px;text-align:center;font-family:'Lato',Arial,sans-serif}
+.promo-btn-close-giaom0{position:absolute;top:14px;right:18px;z-index:2;background:rgba(196, 142, 60, .18);border:none;color:#EFBC6F;font-size:18px;width:32px;height:32px;border-radius:50%;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:background .2s}
+.promo-btn-close-giaom0:hover{background:rgba(196, 142, 60, .32)}
+.promo-tagline-giaom0{font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#C48E3C;margin-bottom:12px}
+.promo-headline-giaom0{font-size:clamp(24px,6vw,38px);font-weight:700;line-height:1.1;color:#F4E6D0;text-shadow:0 2px 12px rgba(0,0,0,.65);margin-bottom:18px;font-family:'Playfair Display',serif;letter-spacing:.01em}
+.promo-headline-giaom0 span{background:linear-gradient(135deg,#F4CF98 0%,#B8863A 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.promo-coins-badge-giaom0{display:inline-flex;align-items:center;gap:8px;background:rgba(0,0,0,.42);border:1px solid rgba(196, 142, 60, .5);border-radius:40px;padding:8px 20px;margin-bottom:28px}
+.promo-coins-icon-giaom0{font-size:22px}
+.promo-coins-text-giaom0{font-size:16px;font-weight:700;color:#EFBC6F}
+.promo-btn-cta-giaom0{display:block;width:100%;padding:16px 24px;border:none;border-radius:3px;background:linear-gradient(135deg,#B8863A 0%,#EFBC6F 100%);color:#1C1306;font-size:15px;font-weight:700;cursor:pointer;text-decoration:none;transition:transform .15s,box-shadow .15s;box-shadow:0 6px 24px rgba(184, 134, 58, .45);font-family:'Lato',sans-serif;letter-spacing:.1em;text-transform:uppercase}
+.promo-btn-cta-giaom0:hover{transform:translateY(-2px);box-shadow:0 10px 30px rgba(239, 188, 111, .55)}
+@media(max-width:480px){.promo-popup-inner-giaom0{padding:40px 20px 28px}.promo-btn-cta-giaom0{font-size:14px;padding:14px 20px}}
+
+/* mQHPRr */

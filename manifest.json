@@ -1,0 +1,19 @@
+{
+  "name": "Atefia Kasyno W Poland: Graj Bez Pośpiechu | Dołącz",
+  "short_name": "Atefia",
+  "start_url": ".",
+  "display": "standalone",
+  "description": "Atefia PL: konto, limity, wypłaty i płatności w 2026 dla dorosłych graczy w Poland - spokojnie, bez stresu | Atefia Casino Online - graj z kontrolą.",
+  "icons": [
+    {
+      "src": "/images/fav.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/fav.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

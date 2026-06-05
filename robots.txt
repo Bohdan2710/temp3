@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /atefiapolandnet/
+Host: atefia-poland.net
+Sitemap: https://atefia-poland.net/sitemap.xml
